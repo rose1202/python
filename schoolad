@@ -1,4 +1,4 @@
-#school
+#school Administration Program
 
 import csv
 def write_info_csv(info_list):
